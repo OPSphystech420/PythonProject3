@@ -6,6 +6,7 @@
 - [Features](#features)
 - [Installing](#installing)
 - [Customization](#customization)
+- [Gallery](#gallery)
 
 # Features
 * Basic text editing: select, cut, copy, paste
@@ -32,3 +33,13 @@ It's easy to design your own themes using `settings.json`.
 * Change `theme` to dark to use default dark theme or
 * set `use_default_theme` to __true__ and provide path to your stylesheet in `stylesheet`
 
+# Gallery
+
+Upload/Save/Print your files 🗄️:
+![White blank editor](/images/file_edit.png)
+
+Wikipedia training 📚:
+![White blank editor](/images/wiki.png)
+
+Statistics 📈:
+![White blank editor](/images/stats.png)
