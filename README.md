@@ -3,10 +3,10 @@
 
 **Table of Contents**
 
-- [Features](#features)
-- [Installing](#installing)
-- [Customization](#customization)
-- [Gallery](#gallery)
+- [Features](#features) 🛠️
+- [Installing](#installing) ⬇️
+- [Customization](#customization) 🧑‍🎨
+- [Gallery](#gallery) 🎇
 
 # Features
 * Basic text editing: select, cut, copy, paste
