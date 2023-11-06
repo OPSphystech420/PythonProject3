@@ -1,6 +1,5 @@
 "learn to write" plain text editor and keyboard trainer
 =================
-First project in **Python practice** cource.
 
 **Table of Contents**
 
